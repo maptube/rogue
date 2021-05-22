@@ -1,4 +1,5 @@
-import os, sys, inspect, thread, time
+import os, sys #, inspect, thread, time
+#https://support.leapmotion.com/hc/en-us/articles/360004362237
 ## Windows, Linux and Mac
 #sys.path.append('C:/richard/projects/github/rogue/3rdparty/LeapSDK/lib/x64') #dll and so files
 #sys.path.append('C:/richard/projects/github/rogue/3rdparty/LeapSDK/lib') #Leap.py
