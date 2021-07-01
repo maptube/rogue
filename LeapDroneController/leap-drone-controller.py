@@ -1,7 +1,6 @@
 import os, sys #, inspect, thread, time
+
 ## Windows, Linux and Mac
-#sys.path.append('C:/richard/projects/github/rogue/3rdparty/LeapSDK/lib/x64') #dll and so files
-#sys.path.append('C:/richard/projects/github/rogue/3rdparty/LeapSDK/lib') #Leap.py
 #sys.path.append('../3rdparty/LeapSDK/lib/x64') #dll and so files for win/linux/mac
 #sys.path.append('../3rdparty/LeapSDK/lib') #Leap.py
 sys.path.insert(0,'../3rdparty/LeapSDK/lib/x64')
